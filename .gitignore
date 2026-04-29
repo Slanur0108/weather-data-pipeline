@@ -1,0 +1,5 @@
+raw_weather.json
+weather_database.db
+__pycache__/
+.DS_Store
+.env
